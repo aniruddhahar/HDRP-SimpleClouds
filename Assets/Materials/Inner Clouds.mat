@@ -14,7 +14,7 @@ Material:
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: -1
+  m_CustomRenderQueue: 2750
   stringTagMap:
     MotionVector: User
     RenderType: Transparent
@@ -25,10 +25,12 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - Vector1_DB1C75C5: 50
-    - Vector1_EFB2B788: 400
+    - Vector1_B8C77063: 1
+    - Vector1_DB1C75C5: 25
+    - Vector1_E3CF677: 600
+    - Vector1_EFB2B788: 300
     - Vector1_F1317B03: 1
-    - Vector1_F1CA838E: 2
+    - Vector1_F1CA838E: 1
     - _AlphaCutoffEnable: 0
     - _AlphaDstBlend: 10
     - _AlphaSrcBlend: 1
@@ -67,7 +69,7 @@ Material:
     - Color_33445E6A: {r: 1, g: 1, b: 1, a: 0}
     - Vector4_76469DA5: {r: 0.25, g: 0.25, b: 0.5, a: 0.5}
     - Vector4_94E98341: {r: 1, g: 1, b: 1, a: 1}
-    - Vector4_A1D68B82: {r: 0.2, g: 1, b: 0.3, a: 1}
+    - Vector4_A1D68B82: {r: 0.3, g: 1, b: 0.3, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &6368965592681337597

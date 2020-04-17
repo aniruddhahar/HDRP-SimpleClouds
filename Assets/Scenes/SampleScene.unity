@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 388.9656, g: 360.4995, b: 394.1331, a: 1}
+  m_IndirectSpecularColor: {r: 388.94022, g: 360.4646, b: 394.09402, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -576,7 +576,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: dcb44a67817ef1f4292a745ddaee3af7,
         type: 3}
       propertyPath: m_LocalScale.y
-      value: 300
+      value: 450
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: dcb44a67817ef1f4292a745ddaee3af7,
         type: 3}
@@ -642,7 +642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Profile: {fileID: 11400000, guid: 2447caebaf043df4b86063ce93ca1d05, type: 2}
   m_StaticLightingSkyUniqueID: 4
-  m_SkySettings: {fileID: 767493765}
+  m_SkySettings: {fileID: 1338687777}
   m_SkySettingsFromProfile: {fileID: 3451157073578729134, guid: 2447caebaf043df4b86063ce93ca1d05,
     type: 2}
 --- !u!4 &594120971
@@ -693,7 +693,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &767493765
+--- !u!114 &1338687777
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
